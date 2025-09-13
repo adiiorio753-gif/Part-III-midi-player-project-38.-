@@ -10,7 +10,7 @@ public class TuneCreator
     
     
     private int x;
-    
+    private int y;
 
     /**
      * Constructor for objects of class TuneCreator
