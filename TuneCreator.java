@@ -7,15 +7,17 @@
  */
 public class TuneCreator
 {
-    // instance variables - replace the example below with your own
+    
+    
     private int x;
+    
 
     /**
      * Constructor for objects of class TuneCreator
      */
     public TuneCreator()
     {
-        // initialise instance variables
+        
         x = 0;
     }
 
